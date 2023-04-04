@@ -1,0 +1,39 @@
+
+
+
+  h1{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 48px;}
+    
+
+    .spacer {
+        padding-top: 80px;
+        padding-bottom: 40px
+      }
+
+      
+      h3{
+        text-align: center;
+        color: darkgreen;
+        padding-top: 10px;
+        font-size: 24px;
+    margin-right: auto;
+    margin-left: auto;}
+    
+        h5{
+            text-align: center;
+            color: gray;
+            padding-top: 5px;
+            font-size: 16px;
+            margin-right: auto;
+            margin-left: auto;}
+
+
+      img{
+        padding-top: 10px;
+        padding-bottom:10px;
+        margin-right: auto;
+            margin-left: auto;
+       
+      }
